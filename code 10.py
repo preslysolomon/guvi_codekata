@@ -1,4 +1,4 @@
-a=int(raw_input('input'))
+a=int(raw_input('input: '))
 count=0
 while (a>0):
     count=count+1
