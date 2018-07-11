@@ -5,7 +5,7 @@ if a==0:
 
 
 elif a>0:
-    print"Positiive"
+    print"Positive"
     
 
 else:
