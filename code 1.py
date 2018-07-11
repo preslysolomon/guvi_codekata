@@ -1,17 +1,15 @@
-a = int(input(" enter your number" ))
-input 
-if a < 0:
-     print " negative"
+a = int(raw_input(""))
+if a==0:
+     print"Zero "
 
-elif a==0:
-    print "zero"
 
-elif a > 100000:
-    print " enter a number between 1 and 100000 "
+
+elif a>0:
+    print"Positiive"
     
 
-else :
-  print "positive"
+else:
+  print"Negative"
  
     
 
